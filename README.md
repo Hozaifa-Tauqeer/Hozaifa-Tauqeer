@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hozaifa Tauqeer
 - 👀 I’m interested in Coding and creating new projects
-- 🌱 I’m currently learning VIT Vellore
+- 🌱 I’m currently studying at VIT Vellore
 - 💞️ I’m looking to collaborate on challenging and interesting projects
 
 <!---
